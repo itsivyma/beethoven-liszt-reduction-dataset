@@ -1,0 +1,5 @@
+id,title,author_or_source,year,type,local_filename,role_in_project,repo_policy
+adler2002,"The Study of Orchestration","Samuel Adler",2002,book,"Samuel-Adler-The-Study-of-Orchestration-2002.pdf","orchestration terminology; roles; texture; doubling; register","do not commit full PDF; store notes/citations only"
+meteor,"METEOR material","project reference","",paper_or_notes,"meteor.txt","methodological/data reference only; not primary dataset","store derived notes; source file only if redistribution is permitted"
+senior_notes,"學長給的","project reference","",notes,"學長給的.txt","historical database/project context","store derived notes; include raw text only if appropriate"
+project_form,"專題探索（二）指導教授與學分數確認單","project document","",pdf,"專題探索（二）指導教授與學分數確認單.pdf","project scope / administrative context","do not commit unless intended for public release"
