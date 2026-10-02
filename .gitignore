@@ -1,0 +1,13 @@
+# Private / copyrighted research materials
+*.pdf
+private_sources/
+copyrighted_sources/
+research_private/
+
+# Local editor / environment files
+.vscode/
+.env
+.env.*
+.DS_Store
+__pycache__/
+*.pyc
